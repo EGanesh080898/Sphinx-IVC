@@ -1,0 +1,7 @@
+# Declares this directory as the root of the Bazel workspace.
+workspace(name = "ivc_shm_mod")
+
+# Loads the standard C++ toolchain.
+# For more complex setups, you might configure a specific toolchain here.
+load("@bazel_tools//tools/cpp:cc_configure.bzl", "cc_configure")
+cc_configure()

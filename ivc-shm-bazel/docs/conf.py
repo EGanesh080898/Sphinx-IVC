@@ -17,6 +17,7 @@ needs_types = [
     dict(directive="test", title="Test Case", prefix="TEST_", color="#DF744A", style="node"),
 ]
 
+needs_extra_options = ["source"]
 needs_id_required = True
 needs_id_regex = r"[A-Z_0-9]+"
 

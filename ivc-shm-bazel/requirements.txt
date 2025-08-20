@@ -1,0 +1,7 @@
+sphinx
+sphinx-needs
+sphinx-design
+sphinx-copybutton
+sphinxcontrib-mermaid
+sphinx-tabs
+myst-parser

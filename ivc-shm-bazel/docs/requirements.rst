@@ -17,3 +17,12 @@ Requirements
    :links: SPEC_002
 
    All concurrent access to shared memory must be safe and free from deadlocks.
+
+Traceability
+------------
+
+.. needflow::
+   :filter: id in ["REQ_001", "REQ_002", "SPEC_001", "SPEC_002", "TEST_001", "TEST_002"]
+   :link_types: links
+   :show_status:
+   :show_tags:

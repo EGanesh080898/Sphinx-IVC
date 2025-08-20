@@ -24,5 +24,4 @@ Traceability
 .. needflow::
    :filter: id in ["REQ_001", "REQ_002", "SPEC_001", "SPEC_002", "TEST_001", "TEST_002"]
    :link_types: links
-   :show_status:
-   :show_tags:
+   :show: id, title, status, tags

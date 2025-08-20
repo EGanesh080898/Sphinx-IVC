@@ -4,7 +4,6 @@ Architecture
 .. grid:: 2
 
    .. grid-item-card::
-      :title: Requirements
       :link: requirements.html
 
       📜 All functional and non-functional requirements for IVC module.

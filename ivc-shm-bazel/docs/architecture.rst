@@ -9,7 +9,6 @@ Architecture
       📜 All functional and non-functional requirements for IVC module.
 
    .. grid-item-card::
-      :title: Specifications
       :link: specifications.html
 
       📐 Design and implementation details linked to code.
